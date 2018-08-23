@@ -1,0 +1,3 @@
+- Markplace voltado para o publico feminino (problema: pequenas empresas)
+- Integração entre sistemas (problem: diminuir complexidade na integração entre sistemas)
+- Laboratórios livres na Unifor - Mobile e Web (problema: não saber qual lab posso ficar nos horários ociosos)
