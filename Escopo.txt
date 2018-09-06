@@ -26,4 +26,5 @@ Relatório de transações do dia.
 
 4 – MÉTRICAS PARA REQUISITOS NÃO FUNCIONAIS
 
-1 – O sistema será robusto para solucionar qualquer recuperação de falha.
+1 – O sistema será robusto para solucionar qualquer recuperação de falha, pois um diferencial é que será um sistema Web Service.
+2 – O sistema terá acesso somente por usuários permitidos no cadastro Master e com suas devidas permissões.
