@@ -1,0 +1,29 @@
+Sistema de Gerência de Estoque para Supermercados
+
+1. OBJETIVO:
+
+O sistema tem como objetivo gerenciar os produtos que entram e os que saem dentro de um supermercado para facilitar e automatizar o serviço das empresas.
+O sistema possui ferramentas que trarão produtividade e segurança para o controle de informações dos produtos. Além disso, ele fará a elaboração de relatórios para gerar estatísticas de vendas e lucro para dentro do supermercado.
+
+Definir qual o problema e sua relevância.
+Como atacar o problema.
+
+2. REQUISITOS DE USUÁRIOS:
+
+Cadastrar um produto.
+Entrada de produto no estoque.
+Saída de produto no estoque.
+Relatório de transações do dia.
+
+3. REQUISITO NÃO FUNCIONAL:
+
+1 – Projeto será criado para serviço web
+2 – O projeto terá total confiança para não ser exposto nenhuma informação.
+3 – O sistema terá um desempenho de rápida resposta para realizar suas demandas diárias, não ultrapassando mais que 5 segundos na resposta da requisição.
+4 – Confiança de dados com o mundo real do estoque físico da empresa. (Domínio)
+5 – Usuário só poderá realizar um lançamento de entrada ou saída de estoque se o produto estiver cadastrado dentro do sistema. (Domínio)
+6 – O sistema informará por e-mail e notificará ao usuário sobre produtos que estão perto de vencer ou que passou do prazo de validade. (Domínio)
+
+4 – MÉTRICAS PARA REQUISITOS NÃO FUNCIONAIS
+
+1 – O sistema será robusto para solucionar qualquer recuperação de falha.
